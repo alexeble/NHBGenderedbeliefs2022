@@ -1,1 +1,3 @@
 # NHBGenderedbeliefs2022
+
+This Git contains the code used to generate the results in "Gendered beliefs about math ability transmit across generations through children’s peers" by Alex Eble and Feng Hu. The file structure used was generated using the "build" and "analysis" folder structure suggested by Gentzkow and Shapiro's "Code and Data for the Social Sciences: A Practitioner’s Guide" (available https://web.stanford.edu/~gentzkow/research/CodeAndData.pdf, last accessed January 28, 2022). We use the China Education Panel Survey data for this analysis, available here: http://ceps.ruc.edu.cn/English/Overview/Overview.htm. 
